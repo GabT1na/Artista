@@ -5,7 +5,7 @@ System.out.println("••••••••••••••••••••
     System.out.println("|Banda: Evanescence|");
     System.out.println("|Membros atuais:Amy Lee, Emma Anzai, Will Hunt, Tim McCord e Troy McLawhorn|");
     System.out.println(" ");
-System.out.println("••••••••••••••••••••••••••••••••••");
+System.out.println("•••••••••••••••••••••••••••••••••");
 System.out.println(" "); 
     System.out.println("Álbum: Fallen ");
     System.out.println("Ano de lançamento: 04 de Março de 2003");
